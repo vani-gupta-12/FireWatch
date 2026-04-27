@@ -1,6 +1,7 @@
 🔥 FireWatch – Frontend UI Project
 
 📌 Overview
+
 FireWatch is a frontend-based web project designed for the Fire Department to improve citizen services through a modern and user-friendly digital interface.
 
 This project focuses on creating an attractive and responsive UI where users can apply for services, track requests, and where administrators can monitor applications through a dashboard.
